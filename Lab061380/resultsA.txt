@@ -1,0 +1,3 @@
+The area of the rectangle is 4.0
+
+The area of the ellipse is 12.6
